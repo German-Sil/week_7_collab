@@ -24,6 +24,6 @@ Here is a code area for Chelsie to work in:
 
 Here is a code area for Germán to work in:
 ```{r German}
-
+print("Hello World!")
 ```
 

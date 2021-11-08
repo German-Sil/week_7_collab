@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Hi Chelsie!
 
-Hiiii German! 
+Hiiii Germán! 
 
 *Reminder* - `pull` often
 
@@ -22,7 +22,7 @@ Here is a code area for Chelsie to work in:
 ```
 
 
-Here is a code area for German to work in:
+Here is a code area for Germán to work in:
 ```{r German}
 
 ```

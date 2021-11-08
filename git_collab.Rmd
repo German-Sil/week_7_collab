@@ -18,7 +18,8 @@ Hiiii Germán!
 
 Here is a code area for Chelsie to work in:
 ```{r Chelsie}
-
+yourmom <- 2 + 2 / (100)
+print(yourmom)
 ```
 
 

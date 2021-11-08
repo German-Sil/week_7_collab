@@ -26,5 +26,8 @@ print(yourmom)
 Here is a code area for Germán to work in:
 ```{r German}
 print("Hello World!")
+
+plot(cars)
+
 ```
 

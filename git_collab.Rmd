@@ -11,3 +11,19 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 Hi Chelsie!
+
+Hiiii German! 
+
+*Reminder* - `pull` often
+
+Here is a code area for Chelsie to work in:
+```{r}
+
+```
+
+
+Here is a code area for German to work in:
+```{r}
+
+```
+

@@ -17,13 +17,13 @@ Hiiii German!
 *Reminder* - `pull` often
 
 Here is a code area for Chelsie to work in:
-```{r}
+```{r Chelsie}
 
 ```
 
 
 Here is a code area for German to work in:
-```{r}
+```{r German}
 
 ```
 
